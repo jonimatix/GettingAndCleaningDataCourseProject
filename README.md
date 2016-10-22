@@ -3,9 +3,9 @@
 For creating a tidy data set of wearable computing data originally from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## Files in Repo
-README.md -- the current document, highlights the entire process
-CodeBook.md -- codebook describing variables, the data and transformations
-run_analysis.R -- The R script
+* README.md -- the current document, highlights the entire process
+* CodeBook.md -- codebook describing variables, the data and transformations
+* run_analysis.R -- The R script
 
 ## Introduction
 This reposiroty contains all the project files for the Coursera course named "Getting And Cleaning Data".
