@@ -94,4 +94,4 @@ dataset2 <- dataset2[order(dataset2$subjectid,dataset2$activitydescription),]
 
 ####################################################################
 # Output the file to working directory
-write.table(dataset2, file = "TidyData.txt", row.names = TRUE)
+write.table(dataset2, file = "TidyData.txt", row.names = FALSE)
