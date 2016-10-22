@@ -9,18 +9,18 @@ Even though the R script contains a lot of comments to describe each line of cod
 1. The Data directory is created in the current working directory
 
 2. Downloading and extracting the data file
-* Downloads the UCI HAR zip file 
-* Extracts the contents in the Data directory
+··* Downloads the UCI HAR zip file 
+··* Extracts the contents in the Data directory
 
 3. Read activity_labels.txt
-* This file consists of 2 columns, showing the subject's activity
-* Populate variable named activitylabels
+··* This file consists of 2 columns, showing the subject's activity
+··* Populate variable named activitylabels
 
 4. The Test data files
-* Read the feature data file and store contents in variable named test
-* Read the activity information and store contents in variable named testactivity
-* Read the subjects data file and store contents in variable named testsubject
-* Combine the above 3 datasets into test
+··* Read the feature data file and store contents in variable named test
+··* Read the activity information and store contents in variable named testactivity
+··* Read the subjects data file and store contents in variable named testsubject
+··* Combine the above 3 datasets into test
 
 5. The Train data files
 * Read the feature data file and store contents in variable named train
