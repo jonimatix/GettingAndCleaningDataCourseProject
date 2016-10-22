@@ -1,4 +1,4 @@
-### Getting And Cleaning Data - Course Project
+# Getting And Cleaning Data - Course Project
 
 For creating a tidy data set of wearable computing data originally from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
@@ -24,7 +24,7 @@ The script performs the following tasks:
 The file CodeBook.md explains the above in more detail.
 
 ## The files
-Once the file is downloaded, it is extracted into a folder named Data. 
+Once the zip file is downloaded, it is extracted into a folder named Data via R script. 
 The script assumes the the following files and folders are in its working directory:
 
 activity_labels.txt
