@@ -27,10 +27,11 @@ The file CodeBook.md explains the above in more detail.
 Once the zip file is downloaded, it is extracted into a folder named Data via R script. 
 The script assumes the the following files and folders are in its working directory:
 
-activity_labels.txt
-features.txt
-test/
-train/
+* activity_labels.txt
+* features.txt
+* test/
+* train/
+
 The output is created in working directory with the name of TidyData.txt
 
 
