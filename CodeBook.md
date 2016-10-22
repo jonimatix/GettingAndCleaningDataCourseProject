@@ -36,9 +36,12 @@ Even though the R script contains a lot of comments to describe each line of cod
 
 8. Tidy the data set
 #### The below steps will be stored in variable named columnnames:
-* Remove dashes(-), commas, brackets, and lower case values to make dataset tidier
-* Replace abbreviations with full description within variables, for ex. replacing Gyro with Gyroscope
-* Add column names for activityid and subjectid
+
+Remove dashes(-), commas, brackets, and lower case values to make dataset tidier
+
+Replace abbreviations with full description within variables, for ex. replacing Gyro with Gyroscope
+
+Add column names for activityid and subjectid
 
 Finally replace the data frame headers with the tidy column names
 
